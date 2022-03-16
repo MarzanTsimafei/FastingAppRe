@@ -6,6 +6,7 @@ import android.view.View
 import android.view.ViewGroup
 import androidx.fragment.app.Fragment
 import com.example.fastingappre.R
+import com.example.fastingappre.onboarding.adapters.ViewPagerAdapter
 import com.example.fastingappre.onboarding.screens.First
 import com.example.fastingappre.onboarding.screens.SecondScreen
 import com.example.fastingappre.onboarding.screens.ThirdScreen

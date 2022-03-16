@@ -1,4 +1,4 @@
-package com.example.fastingappre.onboarding
+package com.example.fastingappre.onboarding.adapters
 
 
 import android.os.Bundle
@@ -6,7 +6,6 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentActivity
 import androidx.viewpager2.adapter.FragmentStateAdapter
 import com.example.fastingappre.onboarding.screens.ARG_OBJECT
-import com.example.fastingappre.onboarding.screens.First
 import com.example.fastingappre.onboarding.screens.FirstOnboardFragmentFragment
 
 class FirstFragmentAdapter(fragment: FragmentActivity) : FragmentStateAdapter(fragment) {

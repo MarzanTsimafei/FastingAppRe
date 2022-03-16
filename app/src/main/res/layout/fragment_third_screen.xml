@@ -6,27 +6,16 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     tools:context=".onboarding.screens.ThirdScreen">
 
-    <ImageView
-        android:id="@+id/imageView3"
-        android:layout_width="300dp"
-        android:layout_height="300dp"
-        android:layout_marginTop="150dp"
-        android:src="@drawable/ic_delivery"
-        app:layout_constraintEnd_toEndOf="parent"
-        app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toTopOf="parent" />
-
     <TextView
         android:id="@+id/title3"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_marginTop="50dp"
         android:text="@string/payment"
         android:textSize="30sp"
         android:textStyle="bold"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
-        app:layout_constraintTop_toBottomOf="@+id/imageView3" />
+        tools:layout_editor_absoluteY="500dp" />
 
     <TextView
         android:id="@+id/description3"

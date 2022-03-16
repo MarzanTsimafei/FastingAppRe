@@ -1,4 +1,4 @@
-package com.example.fastingappre.onboarding
+package com.example.fastingappre.onboarding.adapters
 
 import androidx.fragment.app.Fragment
 import androidx.fragment.app.FragmentManager

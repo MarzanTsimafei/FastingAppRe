@@ -5,4 +5,15 @@
     <string name="food">FRESH FOOD</string>
     <string name="delivery">FAST DELIVERY</string>
     <string name="payment">EASY PAYMENT</string>
+    <string name="wyourname">КАК ВАС ЗОВУТ?</string>
+    <string name="btnContinue">ПРОДОЛЖИТЬ</string>
+    <string name="writeyourname">Напишите ваше имя</string>
+    <string name="tv2f">А теперь подберем вам программу. Это не займет много времени</string>
+    <string name="tv2f1">, приятно познакомиться!</string>
+    <string name="f1">первая</string>
+    <string name="f2">вторая</string>
+    <string name="f3">третья</string>
+    <string name="f4">четвертая</string>
+
+
 </resources>

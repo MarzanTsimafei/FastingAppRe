@@ -14,6 +14,10 @@
     <string name="f2">вторая</string>
     <string name="f3">третья</string>
     <string name="f4">четвертая</string>
+    <string name="v1">первая вкладка</string>
+    <string name="v2">вторая вкладка</string>
+    <string name="v3">третья вкладка</string>
+    <string name="v4">четвертая вкладка</string>
 
 
 </resources>
